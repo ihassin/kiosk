@@ -31,3 +31,5 @@ echo "\n\033[32mComplete!\033[0m\n"
 sleep 10
 echo "copying all contents to the working dir"
 \cp -rf /home/pi/Desktop/git-projects/kiosk/* /home/pi
+sleep 30
+chmod -R 777 /home/pi

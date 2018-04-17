@@ -14,7 +14,7 @@ for (( ; ; ))
 do
 	xdotool key ctrl+Tab
 	echo "Sleeping for 1 Minute to display trello board"
-	sleep 15
+	sleep 30
 	xdotool key ctrl+Tab
 	echo "Switching back to presentation"
 	echo "sleeping for 30 for screen load"

@@ -16,7 +16,7 @@ sed -i 's/"exit_type": "Crashed"/"exit_type": "None"/' ~/.config/google-chrome/D
 
 chromium-browser --kiosk --disable-session-crashed-bubble --disable-infobars --start-maximized --noerrdialogs --enable-logging --v=1 https://trello.com/b/WJWGkyKU/buildit-us https://wipro365-my.sharepoint.com/:p:/r/personal/sh20000592_wipro_com/_layouts/15/Doc.aspx?sourcedoc=%7Ba8855340-7a70-45ee-ae55-2ebe73a305f1%7D&action=edit &
 
-sleep 20
+sleep 40
 
 xdotool key ctrl+Tab
 sleep 30

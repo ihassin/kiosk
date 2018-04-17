@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 # store the current dir
@@ -15,8 +16,11 @@ for i in $(find . -name ".git" | cut -c 3-); do
     cd "$i";
     cd ..;
 
-    # finally pull
-    git pull origin master;
+    # finally force pull
+        git fetch --all
+        git reset --hard origin/master
+        #This was original, but didn't do a force overwrite of local changes
+        #git pull origin master;
 
     # lets get back to the CUR_DIR
     cd $CUR_DIR
@@ -26,4 +30,4 @@ echo "\n\033[32mComplete!\033[0m\n"
 
 sleep 10
 echo "copying all contents to the working dir"
-cp -a /home/pi/Desktop/git-projects/kiosk. /home/pi
+\cp -rf /home/pi/Desktop/git-projects/kiosk/* /home/pi

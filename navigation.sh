@@ -2,6 +2,7 @@
 #echo "what does this do?"
 #export XAUTHORITY=/home/pi/.Xauthority; export DISPLAY=:0;
 echo "Sleep for 30 for full screen load"
+sleep 30
 echo "Start moving forward through slides"
 for VARIABLE in 00 01 02 03 04 05 06 07 08 09 10 11
 do

@@ -4,7 +4,7 @@
 killall navigation.sh
 killall kiosk-sub.sh
 killall chromium-browser
-sleep 5
+sleep 10
 bash /home/pi/kiosk-sub.sh
 
 

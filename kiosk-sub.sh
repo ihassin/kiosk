@@ -29,6 +29,6 @@ do
         sleep 1
 done
 xdotool key KP_Enter
-echo "Waiting 45 to start navigation script"
-sleep 45
+echo "Waiting 15 to start navigation script"
+sleep 15
 bash /home/pi/navigation.sh

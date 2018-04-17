@@ -2,7 +2,7 @@
 #echo "what does this do?"
 #export XAUTHORITY=/home/pi/.Xauthority; export DISPLAY=:0;
 echo "Start moving forward through slides"
-for i in 00 01 02 03 04 05 06 07 08 09 10 11
+for VARIABLE in 00 01 02 03 04 05 06 07 08 09 10 11
 do
 	xdotool key n
 	echo "Next Slide"
@@ -29,7 +29,7 @@ do
 	echo "re-entering fullscreen mode"
 	echo "Waiting for full screen to load - 10"
 	sleep 10
-		for i in 00 01 02 03 04 05 06 07 08 09 10 11
+		for VARIABLE in 00 01 02 03 04 05 06 07 08 09 10 11
         	do
                 xdotool key n
 		echo "Next Slide"

@@ -23,3 +23,7 @@ for i in $(find . -name ".git" | cut -c 3-); do
 done
 
 echo "\n\033[32mComplete!\033[0m\n"
+
+sleep 10
+echo "copying all contents to the working dir"
+cp -a /home/pi/Desktop/git-repos/kiosk/. /home/pi

@@ -29,8 +29,8 @@ do
 	echo "shift plus tab kit"
 	xdotool key KP_Enter
 	echo "re-entering fullscreen mode"
-	echo "Waiting for full screen to load - 10"
-	sleep 10
+	echo "Waiting for full screen to load - 20"
+	sleep 20
 		for VARIABLE in 00 01 02 03 04 05 06 07 08 09 10 11
         	do
                 xdotool key n

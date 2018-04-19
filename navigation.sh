@@ -11,6 +11,7 @@ for (( ; ; ))
 do
 		echo "10 second sleep to display current slide"
 		sleep 10
+		xdotool key Escape
 			for VARIABLE in 00 01 02 03 04 05
         	do
                 xdotool key n
@@ -24,6 +25,7 @@ do
 	xdotool key ctrl+Tab
 	echo "Waiting for full screen to load - 20"
 	sleep 20
+	xdotool key Escape
 		for VARIABLE in 00 01 02 03 04 05
         	do
                 xdotool key p
@@ -31,7 +33,7 @@ do
                 sleep 10
         	done
     xdotool key ctrl+Tab
-    echo "Sleeping for 1 Minute to display trello board"
+    echo "Sleeping for 1 Minute to display Trello board"
 	sleep 30
 	xdotool key ctrl+Tab
 done

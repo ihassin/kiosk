@@ -17,6 +17,4 @@ sed -i 's/"exit_type": "Crashed"/"exit_type": "None"/' ~/.config/google-chrome/D
 chromium-browser --kiosk --disable-session-crashed-bubble --disable-infobars --start-maximized --noerrdialogs --enable-logging --v=1 https://trello.com/b/WJWGkyKU/buildit-us file:///home/pi/office%20presentation/assets/player/KeynoteDHTMLPlayer.html &
 echo "Sleeping 30 for page load"
 sleep 30
-echo "Waiting 15 to start navigation script"
-sleep 15
 bash /home/pi/navigation.sh

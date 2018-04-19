@@ -1,8 +1,11 @@
 #! /bin/bash
 #echo "what does this do?"
 #export XAUTHORITY=/home/pi/.Xauthority; export DISPLAY=:0;
-echo "Sleep for 30 for full screen load"
-sleep 30
+xdotool key Escape
+sleep 2
+xdotool key ctrl+r
+echo "Sleep 10 for page load"
+sleep 10
 echo "Start moving forward through slides"
 for VARIABLE in 00 01 02 03 04 05
 do

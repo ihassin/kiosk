@@ -7,8 +7,8 @@ xdotool key ctrl+r
 echo "starting infinite loop of scrooling and tabbing"
 for (( ; ; ))
 do
-	echo "Waiting to ensure screen loads - 20"
-	sleep 20
+	echo "Waiting to ensure screen loads - 30"
+	sleep 30
 		for VARIABLE in 00 01 02 03 04 05
         	do
                 xdotool key n

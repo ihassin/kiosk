@@ -27,6 +27,9 @@ for i in $(find . -name ".git" | cut -c 3-); do
 done
 
 echo "\n\033[32mComplete!\033[0m\n"
+#echo removing old presentation files
+rm -rf /home/pi/Desktop/git-projects/kiosk/office\ presentation/
+rm -rf /home/pi/office\ presentation/
 
 sleep 10
 echo "copying all contents to the working dir"

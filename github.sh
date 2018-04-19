@@ -1,7 +1,7 @@
 
 #!/bin/bash
-rm -rf /home/pi/Desktop/git-projects/kiosk/office\ presentation/
-rm -rf /home/pi/office\ presentation/
+#rm -rf /home/pi/Desktop/git-projects/kiosk/office\ presentation/
+#rm -rf /home/pi/office\ presentation/
 
 # store the current dir
 CUR_DIR=$(pwd)

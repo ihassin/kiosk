@@ -4,12 +4,14 @@
 xdotool key Escape
 sleep 2
 xdotool key ctrl+r
+echo "Waiting to ensure screen loads - 30"
+sleep 30
 echo "starting infinite loop of scrooling and tabbing"
 for (( ; ; ))
 do
-	echo "Waiting to ensure screen loads - 30"
-	sleep 30
-		for VARIABLE in 00 01 02 03 04 05
+		echo "10 second sleep to display current slide"
+		sleep 10
+			for VARIABLE in 00 01 02 03 04 05
         	do
                 xdotool key n
 		echo "Next Slide"

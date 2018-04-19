@@ -16,7 +16,7 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
-      "15BB8FFE38EFBCECD2D6EBC3F867C222" : {
+      "880AB72D9038935873C1D9BDF740F357" : {
         "type" : "texture",
         "index" : 1,
         "assetRequest" : {
@@ -30,7 +30,7 @@ local_slide( {
         "width" : 1474,
         "height" : 712
       },
-      "B858AEDFA05D6029E3E88BC94F7E5EBA" : {
+      "C1C4AD23649D7F5B70E647D3910D4C30" : {
         "type" : "texture",
         "index" : 2,
         "assetRequest" : {
@@ -240,7 +240,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "B858AEDFA05D6029E3E88BC94F7E5EBA"
+                      "texture" : "C1C4AD23649D7F5B70E647D3910D4C30"
                     },
                     {
                       "animations" : [
@@ -787,7 +787,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "15BB8FFE38EFBCECD2D6EBC3F867C222"
+                      "texture" : "880AB72D9038935873C1D9BDF740F357"
                     }
                   ]
                 }

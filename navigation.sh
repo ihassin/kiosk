@@ -1,16 +1,16 @@
 #! /bin/bash
 #echo "what does this do?"
 #export XAUTHORITY=/home/pi/.Xauthority; export DISPLAY=:0;
-echo "sleeping 10"
-sleep 10
+echo "sleeping 30 for screen load"
+sleep 30
 echo "pressing escape key"
 xdotool key Escape
 echo "Sleeping 10"
 sleep 10
 echo "Pressing ctrl+r"
 xdotool key ctrl+r
-echo "Waiting to ensure screen loads - 30"
-sleep 30
+echo "Waiting to ensure screen loads - 20"
+sleep 20
 echo "starting infinite loop of scrooling and tabbing"
 for (( ; ; ))
 do

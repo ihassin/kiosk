@@ -1,20 +1,6 @@
 {
   "assets" : {
-    "1A2E70D956A304D320F515136589F647" : {
-      "type" : "texture",
-      "index" : 7,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/CD0B5BFE-B91A-41B2-A7C0-A55AC0374A97.pdf"
-      },
-      "width" : 1920,
-      "height" : 1080
-    },
-    "AA48AA52CE713FC10E72DDBFBD4B6A16" : {
+    "DF955A67696248AF0FBAB3F53E5A6DFC" : {
       "type" : "texture",
       "index" : 6,
       "assetRequest" : {
@@ -56,9 +42,9 @@
       "width" : 631,
       "height" : 631
     },
-    "2220F3397CDACB13462BF07286594486" : {
+    "AF7491DD2270BBD134E5A3885C2EB037" : {
       "type" : "texture",
-      "index" : 1,
+      "index" : 2,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -67,8 +53,8 @@
       "url" : {
         "native" : "assets\/CD0B5BFE-B91A-41B2-A7C0-A55AC0374A97.pdf"
       },
-      "width" : 1137,
-      "height" : 1082
+      "width" : 274,
+      "height" : 46
     },
     "5443DBB0520B7C163C8D81C71713063F" : {
       "type" : "texture",
@@ -84,6 +70,34 @@
       "width" : 330,
       "height" : 51
     },
+    "2220F3397CDACB13462BF07286594486" : {
+      "type" : "texture",
+      "index" : 1,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/CD0B5BFE-B91A-41B2-A7C0-A55AC0374A97.pdf"
+      },
+      "width" : 1137,
+      "height" : 1082
+    },
+    "B25EFD72F11184C73DA0DDE895B22C34" : {
+      "type" : "texture",
+      "index" : 7,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/CD0B5BFE-B91A-41B2-A7C0-A55AC0374A97.pdf"
+      },
+      "width" : 1920,
+      "height" : 1080
+    },
     "594157F15A08B3E97CDBEDACA18B9FE6" : {
       "type" : "texture",
       "index" : 3,
@@ -97,20 +111,6 @@
       },
       "width" : 835,
       "height" : 473
-    },
-    "642F2AA4FAB32F3C4088B46208608A6E" : {
-      "type" : "texture",
-      "index" : 2,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/CD0B5BFE-B91A-41B2-A7C0-A55AC0374A97.pdf"
-      },
-      "width" : 298,
-      "height" : 56
     }
   },
   "events" : [
@@ -294,7 +294,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "AA48AA52CE713FC10E72DDBFBD4B6A16"
+                    "texture" : "DF955A67696248AF0FBAB3F53E5A6DFC"
                   },
                   {
                     "animations" : [
@@ -375,7 +375,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "1A2E70D956A304D320F515136589F647"
+                    "texture" : "B25EFD72F11184C73DA0DDE895B22C34"
                   }
                 ]
               }
@@ -414,21 +414,21 @@
           }
         },
         {
+          "text" : "New Faces",
+          "targetRectangle" : {
+            "y" : 155.9647369384766,
+            "x" : 89.20050811767578,
+            "width" : 274.9498196393251,
+            "height" : 67
+          }
+        },
+        {
           "text" : "Chris Mundt (CJ)",
           "targetRectangle" : {
             "y" : 159.4647367857849,
             "x" : 1271.99707071487,
             "width" : 329.3471813201904,
             "height" : 72.00000286102295
-          }
-        },
-        {
-          "text" : "New People",
-          "targetRectangle" : {
-            "y" : 155.9647369384766,
-            "x" : 89.20050811767578,
-            "width" : 298.1625600159168,
-            "height" : 67
           }
         }
       ],
@@ -989,10 +989,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 238.2005081176758,
-                    "pointY" : 183.9647369384766
+                    "pointX" : 226.2005081176758,
+                    "pointY" : 178.9647369384766
                   },
-                  "width" : 298,
+                  "width" : 274,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -1019,7 +1019,7 @@
                   },
                   "opacity" : 1,
                   "edgeAntialiasingMask" : 251658240,
-                  "height" : 56,
+                  "height" : 46,
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.5,
@@ -1036,8 +1036,8 @@
                     ],
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.5322265625,
-                      "textBaseline" : 0.7693898337227958,
+                      "textXHeight" : 0.6479279891304348,
+                      "textBaseline" : 0.9366484932277513,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -1061,10 +1061,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 151.7994918823242,
-                        "pointY" : 39.03526306152344
+                        "pointX" : 139.7994918823242,
+                        "pointY" : 34.03526306152344
                       },
-                      "width" : 298,
+                      "width" : 274,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -1091,14 +1091,14 @@
                       },
                       "opacity" : 1,
                       "edgeAntialiasingMask" : 0,
-                      "height" : 56,
+                      "height" : 46,
                       "hidden" : false,
                       "anchorPoint" : {
                         "pointX" : 0.5,
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "642F2AA4FAB32F3C4088B46208608A6E"
+                    "texture" : "AF7491DD2270BBD134E5A3885C2EB037"
                   }
                 ]
               }

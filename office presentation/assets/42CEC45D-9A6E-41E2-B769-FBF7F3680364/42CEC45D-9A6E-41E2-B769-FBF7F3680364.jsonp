@@ -2,9 +2,51 @@ local_slide( {
   "name" : "42CEC45D-9A6E-41E2-B769-FBF7F3680364",
   "json" : {
     "assets" : {
-      "AA48AA52CE713FC10E72DDBFBD4B6A16" : {
+      "DF955A67696248AF0FBAB3F53E5A6DFC" : {
         "type" : "texture",
-        "index" : 6,
+        "index" : 7,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/42CEC45D-9A6E-41E2-B769-FBF7F3680364.pdf"
+        },
+        "width" : 1920,
+        "height" : 1080
+      },
+      "3C71007D54E776F43F83638099452BA6" : {
+        "type" : "texture",
+        "index" : 3,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/42CEC45D-9A6E-41E2-B769-FBF7F3680364.pdf"
+        },
+        "width" : 820,
+        "height" : 544
+      },
+      "F17C9C563B946300BA923D46BC51B282" : {
+        "type" : "texture",
+        "index" : 5,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/42CEC45D-9A6E-41E2-B769-FBF7F3680364.pdf"
+        },
+        "width" : 663,
+        "height" : 534
+      },
+      "C25C25FF361FB24FC35F6B120D2F252D" : {
+        "type" : "texture",
+        "index" : 0,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -30,20 +72,6 @@ local_slide( {
         "width" : 1137,
         "height" : 1082
       },
-      "C25C25FF361FB24FC35F6B120D2F252D" : {
-        "type" : "texture",
-        "index" : 0,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/42CEC45D-9A6E-41E2-B769-FBF7F3680364.pdf"
-        },
-        "width" : 1920,
-        "height" : 1080
-      },
       "3EBEC66AAA489B7C01BECF0EBCE6F353" : {
         "type" : "texture",
         "index" : 4,
@@ -58,35 +86,7 @@ local_slide( {
         "width" : 255,
         "height" : 42
       },
-      "E769EDBA1DEF8373561DFDA37E522444" : {
-        "type" : "texture",
-        "index" : 5,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/42CEC45D-9A6E-41E2-B769-FBF7F3680364.pdf"
-        },
-        "width" : 1920,
-        "height" : 1080
-      },
-      "594157F15A08B3E97CDBEDACA18B9FE6" : {
-        "type" : "texture",
-        "index" : 3,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/42CEC45D-9A6E-41E2-B769-FBF7F3680364.pdf"
-        },
-        "width" : 835,
-        "height" : 473
-      },
-      "642F2AA4FAB32F3C4088B46208608A6E" : {
+      "AF7491DD2270BBD134E5A3885C2EB037" : {
         "type" : "texture",
         "index" : 2,
         "assetRequest" : {
@@ -97,8 +97,22 @@ local_slide( {
         "url" : {
           "native" : "assets\/42CEC45D-9A6E-41E2-B769-FBF7F3680364.pdf"
         },
-        "width" : 298,
-        "height" : 56
+        "width" : 274,
+        "height" : 46
+      },
+      "EA50B9CEBB725DD72CF7DAB45734F015" : {
+        "type" : "texture",
+        "index" : 6,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/42CEC45D-9A6E-41E2-B769-FBF7F3680364.pdf"
+        },
+        "width" : 1920,
+        "height" : 1080
       }
     },
     "events" : [
@@ -282,7 +296,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "E769EDBA1DEF8373561DFDA37E522444"
+                      "texture" : "EA50B9CEBB725DD72CF7DAB45734F015"
                     },
                     {
                       "animations" : [
@@ -363,7 +377,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "AA48AA52CE713FC10E72DDBFBD4B6A16"
+                      "texture" : "DF955A67696248AF0FBAB3F53E5A6DFC"
                     }
                   ]
                 }
@@ -384,15 +398,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Chris is an Agilist who has coached and trained multiple companies through their Agile transformations.  Chris enjoys discovering what will work best for a company given their culture, product, and technology.  In his spare time, Chris enjoys his time with his wife and two boys. He also likes long walks on the beach, a good romcom and is a Leo.",
-            "targetRectangle" : {
-              "y" : 346.7096920013428,
-              "x" : 31.92436558008194,
-              "width" : 839.5854303836823,
-              "height" : 499.2000198364258
-            }
-          },
-          {
             "text" : "Shaun Parris",
             "targetRectangle" : {
               "y" : 159.4647365808487,
@@ -402,12 +407,30 @@ local_slide( {
             }
           },
           {
-            "text" : "New People",
+            "text" : "me_cropped.png",
+            "targetRectangle" : {
+              "y" : 322.5484261501208,
+              "x" : 1113.854735122754,
+              "width" : 659.6910400390623,
+              "height" : 530.915771484375
+            }
+          },
+          {
+            "text" : "New Faces",
             "targetRectangle" : {
               "y" : 155.9647369384766,
               "x" : 89.20050811767578,
-              "width" : 298.1625600159168,
+              "width" : 274.9498196393251,
               "height" : 67
+            }
+          },
+          {
+            "text" : "Shaun is an experienced Agile Coach and Scrum Master with a Quality Assurance background. He is passionate about partnering with teams and organizations to build a culture of continuous improvement, and is known for his calm demeanor when building trust with teams.  In his spare time, Shaun is a CrossFit coach, loves the beautiful outdoors of Colorado, and enjoys a cold beer with friends on a sunny patio.",
+            "targetRectangle" : {
+              "y" : 346.7096920013428,
+              "x" : 31.92436558008194,
+              "width" : 826.7300952672958,
+              "height" : 561.600022315979
             }
           }
         ],
@@ -968,10 +991,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 238.2005081176758,
-                      "pointY" : 183.9647369384766
+                      "pointX" : 226.2005081176758,
+                      "pointY" : 178.9647369384766
                     },
-                    "width" : 298,
+                    "width" : 274,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -998,7 +1021,7 @@ local_slide( {
                     },
                     "opacity" : 1,
                     "edgeAntialiasingMask" : 251658240,
-                    "height" : 56,
+                    "height" : 46,
                     "hidden" : false,
                     "anchorPoint" : {
                       "pointX" : 0.5,
@@ -1015,8 +1038,8 @@ local_slide( {
                       ],
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
-                        "textXHeight" : 0.5322265625,
-                        "textBaseline" : 0.7693898337227958,
+                        "textXHeight" : 0.6479279891304348,
+                        "textBaseline" : 0.9366484932277513,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -1040,10 +1063,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 151.7994918823242,
-                          "pointY" : 39.03526306152344
+                          "pointX" : 139.7994918823242,
+                          "pointY" : 34.03526306152344
                         },
-                        "width" : 298,
+                        "width" : 274,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -1070,14 +1093,14 @@ local_slide( {
                         },
                         "opacity" : 1,
                         "edgeAntialiasingMask" : 0,
-                        "height" : 56,
+                        "height" : 46,
                         "hidden" : false,
                         "anchorPoint" : {
                           "pointX" : 0.5,
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "642F2AA4FAB32F3C4088B46208608A6E"
+                      "texture" : "AF7491DD2270BBD134E5A3885C2EB037"
                     }
                   ]
                 }
@@ -1155,10 +1178,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 413.424364566803,
-                      "pointY" : 579.2096920013428
+                      "pointX" : 405.924364566803,
+                      "pointY" : 614.7096920013428
                     },
-                    "width" : 835,
+                    "width" : 820,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -1185,7 +1208,7 @@ local_slide( {
                     },
                     "opacity" : 1,
                     "edgeAntialiasingMask" : 251658240,
-                    "height" : 473,
+                    "height" : 544,
                     "hidden" : false,
                     "anchorPoint" : {
                       "pointX" : 0.5,
@@ -1202,8 +1225,8 @@ local_slide( {
                       ],
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
-                        "textXHeight" : 0.04754083806818182,
-                        "textBaseline" : 1.126893343935557,
+                        "textXHeight" : 0.0413360595703125,
+                        "textBaseline" : 0.9798171905910268,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -1227,10 +1250,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 451.575635433197,
-                          "pointY" : 248.7903079986572
+                          "pointX" : 445.075635433197,
+                          "pointY" : 284.2903079986572
                         },
-                        "width" : 835,
+                        "width" : 820,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -1257,14 +1280,14 @@ local_slide( {
                         },
                         "opacity" : 1,
                         "edgeAntialiasingMask" : 0,
-                        "height" : 473,
+                        "height" : 544,
                         "hidden" : false,
                         "anchorPoint" : {
                           "pointX" : 0.5,
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "594157F15A08B3E97CDBEDACA18B9FE6"
+                      "texture" : "3C71007D54E776F43F83638099452BA6"
                     }
                   ]
                 }
@@ -1452,6 +1475,187 @@ local_slide( {
                         }
                       },
                       "texture" : "3EBEC66AAA489B7C01BECF0EBCE6F353"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "animations" : [
+
+              ],
+              "initialState" : {
+                "affineTransform" : [
+                  1,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0
+                ],
+                "masksToBounds" : false,
+                "rotation" : 0,
+                "scale" : 1,
+                "position" : {
+                  "pointX" : 960,
+                  "pointY" : 540
+                },
+                "width" : 1920,
+                "sublayerTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "contentsRect" : {
+                  "y" : 0,
+                  "x" : 0,
+                  "width" : 1,
+                  "height" : 1
+                },
+                "opacity" : 1,
+                "edgeAntialiasingMask" : 251658240,
+                "height" : 1080,
+                "hidden" : false,
+                "anchorPoint" : {
+                  "pointX" : 0.5,
+                  "pointY" : 0.5
+                }
+              },
+              "layers" : [
+                {
+                  "animations" : [
+
+                  ],
+                  "initialState" : {
+                    "affineTransform" : [
+                      1,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0
+                    ],
+                    "masksToBounds" : false,
+                    "rotation" : 0,
+                    "scale" : 1,
+                    "position" : {
+                      "pointX" : 1445.354735122754,
+                      "pointY" : 589.5484261501208
+                    },
+                    "width" : 663,
+                    "sublayerTransform" : [
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1
+                    ],
+                    "contentsRect" : {
+                      "y" : 0,
+                      "x" : 0,
+                      "width" : 1,
+                      "height" : 1
+                    },
+                    "opacity" : 1,
+                    "edgeAntialiasingMask" : 251658240,
+                    "height" : 534,
+                    "hidden" : false,
+                    "anchorPoint" : {
+                      "pointX" : 0.5,
+                      "pointY" : 0.5
+                    }
+                  },
+                  "layers" : [
+                    {
+                      "animations" : [
+
+                      ],
+                      "layers" : [
+
+                      ],
+                      "texturedRectangle" : {
+                        "isBackgroundTexture" : true,
+                        "singleTextureOpacity" : 1,
+                        "textureType" : 5,
+                        "textBaseline" : 0,
+                        "textXHeight" : 0,
+                        "isVerticalText" : false
+                      },
+                      "initialState" : {
+                        "affineTransform" : [
+                          1,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0
+                        ],
+                        "masksToBounds" : false,
+                        "rotation" : 0,
+                        "scale" : 1,
+                        "position" : {
+                          "pointX" : 329.6452648772463,
+                          "pointY" : 265.4515738498792
+                        },
+                        "width" : 663,
+                        "sublayerTransform" : [
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1
+                        ],
+                        "contentsRect" : {
+                          "y" : 0,
+                          "x" : 0,
+                          "width" : 1,
+                          "height" : 1
+                        },
+                        "opacity" : 1,
+                        "edgeAntialiasingMask" : 0,
+                        "height" : 534,
+                        "hidden" : false,
+                        "anchorPoint" : {
+                          "pointX" : 0.5,
+                          "pointY" : 0.5
+                        }
+                      },
+                      "texture" : "F17C9C563B946300BA923D46BC51B282"
                     }
                   ]
                 }

@@ -1,9 +1,13 @@
 #! /bin/bash
 #echo "what does this do?"
 #export XAUTHORITY=/home/pi/.Xauthority; export DISPLAY=:0;
+echo "sleeping 10"
 sleep 10
+echo "pressing escape key"
 xdotool key Escape
-sleep 5
+echo "Sleeping 10"
+sleep 10
+echo "Pressing ctrl+r"
 xdotool key ctrl+r
 echo "Waiting to ensure screen loads - 30"
 sleep 30

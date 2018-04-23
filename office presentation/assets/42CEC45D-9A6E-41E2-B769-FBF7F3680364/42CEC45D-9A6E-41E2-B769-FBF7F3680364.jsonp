@@ -407,6 +407,15 @@ local_slide( {
             }
           },
           {
+            "text" : "Shaun is an experienced Agile Coach and Scrum Master with a Quality Assurance background. He is passionate about partnering with teams and organizations to build a culture of continuous improvement, and is known for his calm demeanor when building trust with teams.  In his spare time, Shaun is a CrossFit coach, loves the beautiful outdoors of Colorado, and enjoys a cold beer with friends on a sunny patio.",
+            "targetRectangle" : {
+              "y" : 346.7096920013428,
+              "x" : 31.92436558008194,
+              "width" : 826.7300952672958,
+              "height" : 561.600022315979
+            }
+          },
+          {
             "text" : "me_cropped.png",
             "targetRectangle" : {
               "y" : 322.5484261501208,
@@ -422,15 +431,6 @@ local_slide( {
               "x" : 89.20050811767578,
               "width" : 274.9498196393251,
               "height" : 67
-            }
-          },
-          {
-            "text" : "Shaun is an experienced Agile Coach and Scrum Master with a Quality Assurance background. He is passionate about partnering with teams and organizations to build a culture of continuous improvement, and is known for his calm demeanor when building trust with teams.  In his spare time, Shaun is a CrossFit coach, loves the beautiful outdoors of Colorado, and enjoys a cold beer with friends on a sunny patio.",
-            "targetRectangle" : {
-              "y" : 346.7096920013428,
-              "x" : 31.92436558008194,
-              "width" : 826.7300952672958,
-              "height" : 561.600022315979
             }
           }
         ],

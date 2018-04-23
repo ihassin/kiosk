@@ -1,5 +1,19 @@
 {
   "assets" : {
+    "EB405F2AAC941A6F9E477D105DC81CD5" : {
+      "type" : "texture",
+      "index" : 1,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/A7E7E960-EABF-4149-A2C0-9603D3CEB435.pdf"
+      },
+      "width" : 1842,
+      "height" : 948
+    },
     "4555E31218E951F4509F90641169AF57" : {
       "type" : "texture",
       "index" : 0,
@@ -14,9 +28,9 @@
       "width" : 1920,
       "height" : 1080
     },
-    "B25EFD72F11184C73DA0DDE895B22C34" : {
+    "3E90F2761CA607FD50927FFFA4E967E1" : {
       "type" : "texture",
-      "index" : 2,
+      "index" : 3,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -28,23 +42,9 @@
       "width" : 1920,
       "height" : 1080
     },
-    "EC03017AA44FB36690A2A5CA6E8851FB" : {
+    "B25EFD72F11184C73DA0DDE895B22C34" : {
       "type" : "texture",
-      "index" : 1,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/A7E7E960-EABF-4149-A2C0-9603D3CEB435.pdf"
-      },
-      "width" : 1843,
-      "height" : 937
-    },
-    "2FCFE046898BECC9268265C9057FB80E" : {
-      "type" : "texture",
-      "index" : 3,
+      "index" : 2,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -319,7 +319,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "2FCFE046898BECC9268265C9057FB80E"
+                    "texture" : "3E90F2761CA607FD50927FFFA4E967E1"
                   }
                 ]
               }
@@ -349,66 +349,66 @@
           }
         },
         {
-          "text" : "TRANSPARENCY - We value transparency as the means to openly share information amongst ourselves, our partners, and our clients.",
+          "text" : "TRANSPARENCY - We value openly sharing information amongst ourselves, our partners, and our clients.",
           "targetRectangle" : {
-            "y" : 255.2328256345548,
-            "x" : 71.09579235401884,
-            "width" : 1745.334669537842,
-            "height" : 102.5999987125397
+            "y" : 206.6328269220151,
+            "x" : 71.09578842011229,
+            "width" : 1775.522618800402,
+            "height" : 88.20000058412555
           }
         },
         {
-          "text" : "INCLUSIVITY - We value inclusivity as the way to be open to different people, ideas, and opinions.  Bias and division rooted in prejudice narrows our minds makes us smaller.",
+          "text" : "INCLUSIVITY - We value being open to different people, ideas, and opinions.  Bias and division rooted in prejudice narrows our minds makes us smaller.",
           "targetRectangle" : {
-            "y" : 352.4328230596342,
-            "x" : 71.09579235401884,
-            "width" : 1808.669533040375,
-            "height" : 102.5999987125397
+            "y" : 324.2328286743917,
+            "x" : 71.09578842011229,
+            "width" : 1777.249904084951,
+            "height" : 88.20000058412552
           }
         },
         {
           "text" : "PRAGMATISM - We value pragmatism as the way to incrementally seek the most appropriate solution to each challenge we face.",
           "targetRectangle" : {
-            "y" : 449.6328204847135,
-            "x" : 71.09579235401884,
-            "width" : 1661.374513227493,
-            "height" : 102.5999987125397
+            "y" : 441.8328304267683,
+            "x" : 71.09578842011229,
+            "width" : 1740.787931282073,
+            "height" : 88.20000058412552
           }
         },
         {
-          "text" : "CURIOSITY - We value curiosity.  Always wanting to know more, experimenting, and learning in order to Get Stuff Done!",
+          "text" : "CURIOSITY - We value always wanting to know more, experimenting, and learning in order to Get Stuff Done!",
           "targetRectangle" : {
-            "y" : 546.8328179097929,
-            "x" : 71.09579235401884,
-            "width" : 1732.527247723192,
-            "height" : 102.5999987125397
+            "y" : 559.4328321791448,
+            "x" : 71.09578842011229,
+            "width" : 1747.276661805809,
+            "height" : 88.20000058412552
           }
         },
         {
           "text" : "RESPONSIBILITY - We value taking responsibility for our own and our colleagues behaviors, actions and well being. Taking responsibility creates trust and trust is the doorway to autonomy.",
           "targetRectangle" : {
-            "y" : 644.0328153348722,
-            "x" : 71.09579235401884,
-            "width" : 1740.421583801508,
-            "height" : 151.1999974250793
+            "y" : 677.0328339315214,
+            "x" : 71.09578842011229,
+            "width" : 1796.599982237443,
+            "height" : 88.20000058412552
           }
         },
         {
-          "text" : "OPEN-MINDEDNESS - We value the right decision not how it is reached.  We leave our egos at the door, listen to argument, and strive for consensus.",
+          "text" : "OPEN-MINDEDNESS - We value the right decision, not how it is reached.  We leave our egos at the door, listen to argument, and strive for consensus.",
           "targetRectangle" : {
-            "y" : 789.8328114724912,
-            "x" : 71.09579235401884,
-            "width" : 1776.540236044675,
-            "height" : 102.5999987125397
+            "y" : 794.632835683898,
+            "x" : 71.09578842011229,
+            "width" : 1777.567814186215,
+            "height" : 88.20000058412552
           }
         },
         {
-          "text" : "GET STUFF DONE - Above all we value the ability to demonstrate progress towards a goal over perfection.",
+          "text" : "GET STUFF DONE - Above all, we value the ability to demonstrate progress toward a goal over perfection.",
           "targetRectangle" : {
-            "y" : 887.0328088975706,
-            "x" : 71.09579235401884,
-            "width" : 1759.071095399559,
-            "height" : 102.5999987125397
+            "y" : 912.2328374362745,
+            "x" : 71.09578842011229,
+            "width" : 1776.767032936215,
+            "height" : 88.20000058412552
           }
         }
       ],
@@ -721,10 +721,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 949.3265628227307,
-                    "pointY" : 496.932831642703
+                    "pointX" : 948.8265628227307,
+                    "pointY" : 502.432831642703
                   },
-                  "width" : 1843,
+                  "width" : 1842,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -751,7 +751,7 @@
                   },
                   "opacity" : 1,
                   "edgeAntialiasingMask" : 251658240,
-                  "height" : 937,
+                  "height" : 948,
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.5,
@@ -768,8 +768,8 @@
                     ],
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.06816135272145143,
-                      "textBaseline" : 1.039363591492956,
+                      "textXHeight" : 0.06737045094936708,
+                      "textBaseline" : 0.9884004628709389,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -793,10 +793,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 920.6734371772693,
-                        "pointY" : 494.067168357297
+                        "pointX" : 920.1734371772693,
+                        "pointY" : 499.567168357297
                       },
-                      "width" : 1843,
+                      "width" : 1842,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -823,14 +823,14 @@
                       },
                       "opacity" : 1,
                       "edgeAntialiasingMask" : 0,
-                      "height" : 937,
+                      "height" : 948,
                       "hidden" : false,
                       "anchorPoint" : {
                         "pointX" : 0.5,
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "EC03017AA44FB36690A2A5CA6E8851FB"
+                    "texture" : "EB405F2AAC941A6F9E477D105DC81CD5"
                   }
                 ]
               }

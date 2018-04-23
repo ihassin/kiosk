@@ -28,6 +28,20 @@
       "width" : 1920,
       "height" : 1080
     },
+    "5423E05E4AC6F1FD91B98EE9CB723BA8" : {
+      "type" : "texture",
+      "index" : 5,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/3983408A-AEFE-4C87-9AF6-A23CB36E7B9E.pdf"
+      },
+      "width" : 1920,
+      "height" : 1080
+    },
     "AA1EDE16EBC95DD14123ABF83E098EB5" : {
       "type" : "texture",
       "index" : 1,
@@ -55,20 +69,6 @@
       },
       "width" : 1284,
       "height" : 153
-    },
-    "54A28DB25E4208AD50B2F5C6DC1162BE" : {
-      "type" : "texture",
-      "index" : 5,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/3983408A-AEFE-4C87-9AF6-A23CB36E7B9E.pdf"
-      },
-      "width" : 1920,
-      "height" : 1080
     },
     "C25C25FF361FB24FC35F6B120D2F252D" : {
       "type" : "texture",
@@ -347,7 +347,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "54A28DB25E4208AD50B2F5C6DC1162BE"
+                    "texture" : "5423E05E4AC6F1FD91B98EE9CB723BA8"
                   }
                 ]
               }
@@ -367,6 +367,15 @@
 
       ],
       "accessibility" : [
+        {
+          "text" : "new-york-city-2380683_960_720.jpg",
+          "targetRectangle" : {
+            "y" : 0.1610169491525539,
+            "x" : -1.411995749208018,
+            "width" : 1935.361450195312,
+            "height" : 1126.94482421875
+          }
+        },
         {
           "text" : "Practice Development Talks - Friday May 11th @ 3pm",
           "targetRectangle" : {
@@ -392,15 +401,6 @@
             "x" : 84.55159770605351,
             "width" : 650.4018928483129,
             "height" : 72.00000000000001
-          }
-        },
-        {
-          "text" : "new-york-city-2380683_960_720.jpg",
-          "targetRectangle" : {
-            "y" : 0.1610169491525539,
-            "x" : -1.411995749208018,
-            "width" : 1935.361450195312,
-            "height" : 1126.94482421875
           }
         }
       ],

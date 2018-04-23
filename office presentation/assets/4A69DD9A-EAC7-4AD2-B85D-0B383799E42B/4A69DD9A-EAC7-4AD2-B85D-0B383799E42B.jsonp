@@ -2,9 +2,9 @@ local_slide( {
   "name" : "4A69DD9A-EAC7-4AD2-B85D-0B383799E42B",
   "json" : {
     "assets" : {
-      "C25C25FF361FB24FC35F6B120D2F252D" : {
+      "5423E05E4AC6F1FD91B98EE9CB723BA8" : {
         "type" : "texture",
-        "index" : 0,
+        "index" : 4,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -44,20 +44,6 @@ local_slide( {
         "width" : 727,
         "height" : 66
       },
-      "EA50B9CEBB725DD72CF7DAB45734F015" : {
-        "type" : "texture",
-        "index" : 5,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/4A69DD9A-EAC7-4AD2-B85D-0B383799E42B.pdf"
-        },
-        "width" : 1920,
-        "height" : 1080
-      },
       "33F6A2D149F275BC9B6254F3CD5E7FF5" : {
         "type" : "texture",
         "index" : 3,
@@ -72,9 +58,23 @@ local_slide( {
         "width" : 1535,
         "height" : 152
       },
-      "54A28DB25E4208AD50B2F5C6DC1162BE" : {
+      "EA50B9CEBB725DD72CF7DAB45734F015" : {
         "type" : "texture",
-        "index" : 4,
+        "index" : 5,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/4A69DD9A-EAC7-4AD2-B85D-0B383799E42B.pdf"
+        },
+        "width" : 1920,
+        "height" : 1080
+      },
+      "C25C25FF361FB24FC35F6B120D2F252D" : {
+        "type" : "texture",
+        "index" : 0,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -268,7 +268,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "54A28DB25E4208AD50B2F5C6DC1162BE"
+                      "texture" : "5423E05E4AC6F1FD91B98EE9CB723BA8"
                     },
                     {
                       "animations" : [
@@ -370,6 +370,15 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Upcoming Events - Denver",
+            "targetRectangle" : {
+              "y" : 86.23108076414238,
+              "x" : 84.55159770605351,
+              "width" : 721.9673976302147,
+              "height" : 72
+            }
+          },
+          {
             "text" : "Beer Tasting - Tuesday April 24th @ 1:30",
             "targetRectangle" : {
               "y" : 340.8821058429168,
@@ -385,15 +394,6 @@ local_slide( {
               "x" : 97.00911106035716,
               "width" : 1500.222827196121,
               "height" : 86.40000343322754
-            }
-          },
-          {
-            "text" : "Upcoming Events - Denver",
-            "targetRectangle" : {
-              "y" : 86.23108076414238,
-              "x" : 84.55159770605351,
-              "width" : 721.9673976302147,
-              "height" : 72
             }
           },
           {

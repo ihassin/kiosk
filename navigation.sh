@@ -29,7 +29,7 @@ do
 		for VARIABLE in 00 01 02 03 04 05 06
         	do
                 xdotool key p
-		echo "Next Slide"
+		echo "Previous Slide"
                 sleep 10
         	done
     xdotool key ctrl+Tab

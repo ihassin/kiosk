@@ -1,8 +1,9 @@
 #! /bin/bash
 #echo "what does this do?"
 #export XAUTHORITY=/home/pi/.Xauthority; export DISPLAY=:0;
+sleep 10
 xdotool key Escape
-sleep 2
+sleep 5
 xdotool key ctrl+r
 echo "Waiting to ensure screen loads - 30"
 sleep 30

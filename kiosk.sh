@@ -4,9 +4,8 @@ killall chromium-browser
 sleep 10
 kioskstate=1
 export kioskstate
-echo "$kioskstate"
+echo "Kiosk state is $kioskstate"
 echo "$kioskstate" > currentstate.txt
-echo "Set kioskstate var to $kioskstate"
 bash /home/pi/kiosk-sub.sh
 
 

@@ -1,5 +1,5 @@
 #! /bin/bash
-# Need this run from printscreen press
+# Need this to run from printscreen press
 
 kioskstate=`cat /home/pi/currentstate.txt`
 echo "Kiosk state is $kioskstate"

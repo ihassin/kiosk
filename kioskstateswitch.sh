@@ -3,13 +3,13 @@
 
 kioskstate=`cat /home/pi/currentstate.txt`
 echo "Kiosk state is $kioskstate"
-if $kioskstate = 0
+if [ "$kioskstate" = "0" ];
 then
 notify-send "Kiosk Mode Restarting"
 echo "Kiosk Mode Restarting"
 bash /home/pi/kiosk.sh
 fi
-if $kioskstate = 1
+if [ "$kioskstate" = "1" ];
 then
 echo "Killing all bash scripts"
 kioskstate=0

@@ -4,6 +4,12 @@ sudo apt-get install libnotify-bin
 This is what enables the application to send notification messages to the PI's UI
 Here's a post on how to use it: https://raspberrypi.stackexchange.com/questions/37081/how-do-i-display-a-message-on-the-screen
 
+To enable toggling kiosk mode via a key command follow the steps in this guide:
+https://wiki.lxde.org/en/How_to_take_screenshots
+Instead of screenshot.sh, use kioskstateswitch.sh from this repo
+kioskstateswitch.sh should automatically be copied to the correct repo: /usr/local/bin
+Just need to update ~/.config/openbox/lxde-pi-rc.xml to run kioskstateswitch.sh
+
 
 In order for the kiosk.sh script to open and scroll through new tabs, install xdotool:
 https://blog.hostonnet.com/installation-of-xdotool-on-linux

@@ -36,3 +36,5 @@ echo "copying all contents to the working dir"
 \cp -rf /home/pi/Desktop/git-projects/kiosk/* /home/pi
 sleep 30
 chmod -R +x /home/pi
+\cp -rf /home/pi/Desktop/git-projects/kiosk/kioskstateswitch.sh /usr/local/bin/
+chmod +x /usr/local/bin/kioskstateswitch.sh

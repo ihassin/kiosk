@@ -16,7 +16,7 @@ kioskstate=0
 export kioskstate
 echo "Kiosk state is $kioskstate"
 echo "$kioskstate" > currentstate.txt
-echo "Set kioskstate var to $kioskstate"
+echo "Set Kiosk State to $kioskstate"
 notify-send "Kiosk Mode Stopped"
 killall bash
 fi

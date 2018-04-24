@@ -1,7 +1,6 @@
 # kiosk
 Initial Setup on Raspberry PI:
 - Open chrome and log into your trello account to access buildit-us board
--
 - Create a folder on the desktop titled "git-projects"
 - If git-projects was created with mkdir, not GUI: chmod 777 git-projects, so you have access to this dir
 - From terminal cd /home/pi/git projects

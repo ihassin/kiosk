@@ -18,4 +18,4 @@ chromium-browser --kiosk --disable-session-crashed-bubble --disable-infobars --s
 #chromium-browser --kiosk --disable-session-crashed-bubble --disable-infobars --start-maximized --noerrdialogs --enable-logging --v=1 https://weather.com file:///home/pi/office%20presentation/assets/player/KeynoteDHTMLPlayer.html &
 
 sleep 5
-bash /home/pi/navigation.sh
+sudo bash /home/pi/navigation.sh

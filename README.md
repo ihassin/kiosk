@@ -27,6 +27,7 @@ If you wish to use the Print Screen key to toggle
 
 
 Further Information on install's from above:
+
 Must install libnotify-bin as well:
 sudo apt-get install libnotify-bin
 This is what enables the application to send notification messages to the PI's UI

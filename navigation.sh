@@ -17,7 +17,7 @@ do
 		echo "10 second sleep to display current slide"
 		sleep 10
 		xdotool key Escape
-			for VARIABLE in 00 01 02 03 04 05
+			for VARIABLE in 00 01 02 03 04 05 06
         	do
                 xdotool key n
 		echo "Next Slide"
@@ -31,7 +31,7 @@ do
 	echo "Waiting for full screen to load - 20"
 	sleep 20
 	xdotool key Escape
-		for VARIABLE in 00 01 02 03 04 05
+		for VARIABLE in 00 01 02 03 04 05 06
         	do
                 xdotool key p
 		echo "Previous Slide"

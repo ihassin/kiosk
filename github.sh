@@ -35,6 +35,6 @@ sleep 10
 echo "copying all contents to the working dir"
 sudo \cp -rf /home/pi/Desktop/git-projects/kiosk/* /home/pi
 sleep 30
-chmod -R +x /home/pi
+sudo chmod -R +x /home/pi
 sudo \cp -rf /home/pi/Desktop/git-projects/kiosk/kioskstateswitch.sh /usr/local/bin/kioskstateswitch.sh
-chmod +x /usr/local/bin/kioskstateswitch.sh
+sudo chmod +x /usr/local/bin/kioskstateswitch.sh

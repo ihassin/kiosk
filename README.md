@@ -13,13 +13,16 @@ Initial Setup on Raspberry PI:
 If you wish to use the Print Screen key to toggle
 - Ensure this file exists: /usr/local/bin/kioskstateswitch.sh - If not, the copy didn't work correctly from the github.sh script. Try running this command manually to troubleshoot "sudo \cp -rf /home/pi/Desktop/git-projects/kiosk/kioskstateswitch.sh /usr/local/bin/kioskstateswitch.sh"
 - Edit file ~/.config/openbox/lxde-pi-rc.xml
-- Find line that contains: <keybind key="Print">
+- Find line that contains:
+'''<keybind key="Print">'''
 - Match this section of xml:
-<keybind key="Print">
+
+'''<keybind key="Print">
       <action name="Execute">
         <command>./kioskstateswitch.sh</command>
       </action>
-    </keybind>
+    </keybind>'''
+
 - Run command "openbox --reconfigure"
 
 

@@ -6,7 +6,7 @@ kioskstate=1
 export kioskstate
 echo "Kiosk state is $kioskstate"
 echo "$kioskstate" > currentstate.txt
-sudo bash /home/pi/kiosk-sub.sh
+bash /home/pi/kiosk-sub.sh
 
 
 

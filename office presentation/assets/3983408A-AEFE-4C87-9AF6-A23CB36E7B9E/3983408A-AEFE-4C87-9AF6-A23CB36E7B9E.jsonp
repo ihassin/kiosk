@@ -16,23 +16,9 @@ local_slide( {
         "width" : 654,
         "height" : 67
       },
-      "5BA6DF7ACEF516F7DAB78587CF30CE20" : {
+      "0694B4441B6ABCEDFA75EC78B7FB280E" : {
         "type" : "texture",
         "index" : 4,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/3983408A-AEFE-4C87-9AF6-A23CB36E7B9E.pdf"
-        },
-        "width" : 1920,
-        "height" : 1080
-      },
-      "5423E05E4AC6F1FD91B98EE9CB723BA8" : {
-        "type" : "texture",
-        "index" : 5,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -71,6 +57,20 @@ local_slide( {
         },
         "width" : 1284,
         "height" : 153
+      },
+      "54A28DB25E4208AD50B2F5C6DC1162BE" : {
+        "type" : "texture",
+        "index" : 5,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/3983408A-AEFE-4C87-9AF6-A23CB36E7B9E.pdf"
+        },
+        "width" : 1920,
+        "height" : 1080
       },
       "C25C25FF361FB24FC35F6B120D2F252D" : {
         "type" : "texture",
@@ -268,7 +268,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "5BA6DF7ACEF516F7DAB78587CF30CE20"
+                      "texture" : "0694B4441B6ABCEDFA75EC78B7FB280E"
                     },
                     {
                       "animations" : [
@@ -349,7 +349,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "5423E05E4AC6F1FD91B98EE9CB723BA8"
+                      "texture" : "54A28DB25E4208AD50B2F5C6DC1162BE"
                     }
                   ]
                 }
@@ -372,8 +372,8 @@ local_slide( {
           {
             "text" : "new-york-city-2380683_960_720.jpg",
             "targetRectangle" : {
-              "y" : 0.1610169491525539,
-              "x" : -1.411995749208018,
+              "y" : 0.1610169559717178,
+              "x" : -1.411995768547058,
               "width" : 1935.361450195312,
               "height" : 1126.94482421875
             }
@@ -381,8 +381,8 @@ local_slide( {
           {
             "text" : "Practice Development Talks - Friday May 11th @ 3pm",
             "targetRectangle" : {
-              "y" : 343.2065655786831,
-              "x" : 94.68465406640678,
+              "y" : 343.2065534591675,
+              "x" : 94.68465340137482,
               "width" : 1249.277338385582,
               "height" : 86.40000343322754
             }
@@ -390,19 +390,19 @@ local_slide( {
           {
             "text" : "GCP Summit - Wednesday May 23rd",
             "targetRectangle" : {
-              "y" : 429.6065690119106,
-              "x" : 94.68465406640678,
+              "y" : 429.606556892395,
+              "x" : 94.68465340137482,
               "width" : 872.1457707881927,
-              "height" : 86.40000343322748
+              "height" : 86.40000343322754
             }
           },
           {
             "text" : "Upcoming Events - NYC",
             "targetRectangle" : {
-              "y" : 86.23108076414245,
-              "x" : 84.55159770605351,
+              "y" : 86.2310791015625,
+              "x" : 84.55159759521484,
               "width" : 650.4018928483129,
-              "height" : 72.00000000000001
+              "height" : 72
             }
           }
         ],
@@ -715,8 +715,8 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 967.588004250792,
-                      "pointY" : 565.1610169491526
+                      "pointX" : 967.5880042314529,
+                      "pointY" : 565.1610169559717
                     },
                     "width" : 1938,
                     "sublayerTransform" : [
@@ -781,8 +781,8 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 967.411995749208,
-                          "pointY" : 563.8389830508474
+                          "pointX" : 967.4119957685471,
+                          "pointY" : 563.8389830440283
                         },
                         "width" : 1938,
                         "sublayerTransform" : [
@@ -896,8 +896,8 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 411.5515977060535,
-                      "pointY" : 119.7310807641424
+                      "pointX" : 411.5515975952148,
+                      "pointY" : 119.7310791015625
                     },
                     "width" : 654,
                     "sublayerTransform" : [
@@ -944,7 +944,7 @@ local_slide( {
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
                         "textXHeight" : 0.476620802238806,
-                        "textBaseline" : 0.7676455617782455,
+                        "textBaseline" : 0.7676455369636194,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -968,8 +968,8 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 329.4484022939465,
-                          "pointY" : 40.26891923585755
+                          "pointX" : 329.4484024047852,
+                          "pointY" : 40.2689208984375
                         },
                         "width" : 654,
                         "sublayerTransform" : [
@@ -1083,8 +1083,8 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 700.6846549008718,
-                      "pointY" : 415.7065655786831
+                      "pointX" : 700.6846542358398,
+                      "pointY" : 415.7065534591675
                     },
                     "width" : 1284,
                     "sublayerTransform" : [
@@ -1131,7 +1131,7 @@ local_slide( {
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
                         "textXHeight" : 0.205078125,
-                        "textBaseline" : 0.9007041888033374,
+                        "textBaseline" : 0.9007041095908171,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -1155,8 +1155,8 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 648.3153450991282,
-                          "pointY" : 87.29343442131693
+                          "pointX" : 648.3153457641602,
+                          "pointY" : 87.29344654083252
                         },
                         "width" : 1284,
                         "sublayerTransform" : [

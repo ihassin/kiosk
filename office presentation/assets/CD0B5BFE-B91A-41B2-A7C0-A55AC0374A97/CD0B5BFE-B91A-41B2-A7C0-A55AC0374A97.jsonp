@@ -400,19 +400,19 @@ local_slide( {
           {
             "text" : "Chris is an Agilist who has coached and trained multiple companies through their Agile transformations.  Chris enjoys discovering what will work best for a company given their culture, product, and technology.  In his spare time, Chris enjoys his time with his wife and two boys. He also likes long walks on the beach, a good romcom and is a Leo.",
             "targetRectangle" : {
-              "y" : 346.7097198587934,
-              "x" : 31.92436535725005,
+              "y" : 346.7096920013428,
+              "x" : 31.92436558008194,
               "width" : 839.5854303836823,
               "height" : 499.2000198364258
             }
           },
           {
-            "text" : "CJ.jpg",
+            "text" : "Chris Mundt (CJ)",
             "targetRectangle" : {
-              "y" : 291.6598062953993,
-              "x" : 1129.592038402836,
-              "width" : 628.2164306640625,
-              "height" : 628.2164306640625
+              "y" : 159.4647365808487,
+              "x" : 1271.997072458267,
+              "width" : 329.3471813201904,
+              "height" : 72.00000286102295
             }
           },
           {
@@ -425,12 +425,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Chris Mundt (CJ)",
+            "text" : "CJ.jpg",
             "targetRectangle" : {
-              "y" : 159.4647367857849,
-              "x" : 1271.99707071487,
-              "width" : 329.3471813201904,
-              "height" : 72.00000286102295
+              "y" : 291.6598205566406,
+              "x" : 1129.592041015625,
+              "width" : 628.2164306640625,
+              "height" : 628.2164306640625
             }
           }
         ],
@@ -1178,8 +1178,8 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 413.4243643439711,
-                      "pointY" : 579.2097198587934
+                      "pointX" : 413.424364566803,
+                      "pointY" : 579.2096920013428
                     },
                     "width" : 835,
                     "sublayerTransform" : [
@@ -1226,7 +1226,7 @@ local_slide( {
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
                         "textXHeight" : 0.04754083806818182,
-                        "textBaseline" : 1.126893402830802,
+                        "textBaseline" : 1.126893343935557,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -1250,8 +1250,8 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 451.5756356560289,
-                          "pointY" : 248.7902801412066
+                          "pointX" : 451.575635433197,
+                          "pointY" : 248.7903079986572
                         },
                         "width" : 835,
                         "sublayerTransform" : [
@@ -1365,8 +1365,8 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 1400.997068569103,
-                      "pointY" : 180.9647367857849
+                      "pointX" : 1400.9970703125,
+                      "pointY" : 180.9647365808487
                     },
                     "width" : 330,
                     "sublayerTransform" : [
@@ -1413,7 +1413,7 @@ local_slide( {
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
                         "textXHeight" : 0.5126953125,
-                        "textBaseline" : 0.7640335950644088,
+                        "textBaseline" : 0.7640335910460528,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -1437,8 +1437,8 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 201.0029314308972,
-                          "pointY" : 39.03526321421515
+                          "pointX" : 201.0029296875,
+                          "pointY" : 39.03526341915131
                         },
                         "width" : 330,
                         "sublayerTransform" : [
@@ -1552,8 +1552,8 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 1445.092038402836,
-                      "pointY" : 607.1598062953993
+                      "pointX" : 1445.092041015625,
+                      "pointY" : 607.1598205566406
                     },
                     "width" : 631,
                     "sublayerTransform" : [
@@ -1618,8 +1618,8 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 313.9079615971639,
-                          "pointY" : 313.8401937046007
+                          "pointX" : 313.907958984375,
+                          "pointY" : 313.8401794433594
                         },
                         "width" : 631,
                         "sublayerTransform" : [

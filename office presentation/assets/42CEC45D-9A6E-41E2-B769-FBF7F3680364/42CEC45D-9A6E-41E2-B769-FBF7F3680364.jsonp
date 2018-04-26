@@ -398,15 +398,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Shaun Parris",
-            "targetRectangle" : {
-              "y" : 159.4647365808487,
-              "x" : 1271.997072458267,
-              "width" : 252.6744484901428,
-              "height" : 72.00000286102295
-            }
-          },
-          {
             "text" : "Shaun is an experienced Agile Coach and Scrum Master with a Quality Assurance background. He is passionate about partnering with teams and organizations to build a culture of continuous improvement, and is known for his calm demeanor when building trust with teams.  In his spare time, Shaun is a CrossFit coach, loves the beautiful outdoors of Colorado, and enjoys a cold beer with friends on a sunny patio.",
             "targetRectangle" : {
               "y" : 346.7096920013428,
@@ -418,9 +409,9 @@ local_slide( {
           {
             "text" : "me_cropped.png",
             "targetRectangle" : {
-              "y" : 322.5484261501208,
-              "x" : 1113.854735122754,
-              "width" : 659.6910400390623,
+              "y" : 322.5484313964844,
+              "x" : 1113.854736328125,
+              "width" : 659.6910400390625,
               "height" : 530.915771484375
             }
           },
@@ -431,6 +422,15 @@ local_slide( {
               "x" : 89.20050811767578,
               "width" : 274.9498196393251,
               "height" : 67
+            }
+          },
+          {
+            "text" : "Shaun Parris",
+            "targetRectangle" : {
+              "y" : 159.4647365808487,
+              "x" : 1271.997072458267,
+              "width" : 252.6744484901428,
+              "height" : 72.00000286102295
             }
           }
         ],
@@ -1552,8 +1552,8 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 1445.354735122754,
-                      "pointY" : 589.5484261501208
+                      "pointX" : 1445.354736328125,
+                      "pointY" : 589.5484313964844
                     },
                     "width" : 663,
                     "sublayerTransform" : [
@@ -1618,8 +1618,8 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 329.6452648772463,
-                          "pointY" : 265.4515738498792
+                          "pointX" : 329.645263671875,
+                          "pointY" : 265.4515686035156
                         },
                         "width" : 663,
                         "sublayerTransform" : [

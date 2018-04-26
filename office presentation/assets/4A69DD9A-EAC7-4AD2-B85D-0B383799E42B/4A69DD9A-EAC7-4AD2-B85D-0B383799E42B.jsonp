@@ -2,9 +2,9 @@ local_slide( {
   "name" : "4A69DD9A-EAC7-4AD2-B85D-0B383799E42B",
   "json" : {
     "assets" : {
-      "5423E05E4AC6F1FD91B98EE9CB723BA8" : {
+      "C25C25FF361FB24FC35F6B120D2F252D" : {
         "type" : "texture",
-        "index" : 4,
+        "index" : 0,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -44,20 +44,6 @@ local_slide( {
         "width" : 727,
         "height" : 66
       },
-      "33F6A2D149F275BC9B6254F3CD5E7FF5" : {
-        "type" : "texture",
-        "index" : 3,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/4A69DD9A-EAC7-4AD2-B85D-0B383799E42B.pdf"
-        },
-        "width" : 1535,
-        "height" : 152
-      },
       "EA50B9CEBB725DD72CF7DAB45734F015" : {
         "type" : "texture",
         "index" : 5,
@@ -72,9 +58,23 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
-      "C25C25FF361FB24FC35F6B120D2F252D" : {
+      "33F6A2D149F275BC9B6254F3CD5E7FF5" : {
         "type" : "texture",
-        "index" : 0,
+        "index" : 3,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/4A69DD9A-EAC7-4AD2-B85D-0B383799E42B.pdf"
+        },
+        "width" : 1535,
+        "height" : 152
+      },
+      "54A28DB25E4208AD50B2F5C6DC1162BE" : {
+        "type" : "texture",
+        "index" : 4,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -268,7 +268,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "5423E05E4AC6F1FD91B98EE9CB723BA8"
+                      "texture" : "54A28DB25E4208AD50B2F5C6DC1162BE"
                     },
                     {
                       "animations" : [
@@ -372,8 +372,8 @@ local_slide( {
           {
             "text" : "Upcoming Events - Denver",
             "targetRectangle" : {
-              "y" : 86.23108076414238,
-              "x" : 84.55159770605351,
+              "y" : 86.2310791015625,
+              "x" : 84.55159759521484,
               "width" : 721.9673976302147,
               "height" : 72
             }
@@ -381,8 +381,8 @@ local_slide( {
           {
             "text" : "Beer Tasting - Tuesday April 24th @ 1:30",
             "targetRectangle" : {
-              "y" : 340.8821058429168,
-              "x" : 97.00911106035716,
+              "y" : 340.8821210861206,
+              "x" : 97.00911045074463,
               "width" : 946.9105070829391,
               "height" : 86.40000343322754
             }
@@ -390,8 +390,8 @@ local_slide( {
           {
             "text" : "Take Our Daughters and Sons to Work Day - Thursday April 26th",
             "targetRectangle" : {
-              "y" : 427.2821092761443,
-              "x" : 97.00911106035716,
+              "y" : 427.2821245193481,
+              "x" : 97.00911045074463,
               "width" : 1500.222827196121,
               "height" : 86.40000343322754
             }
@@ -400,8 +400,8 @@ local_slide( {
             "text" : "denver_union_station_exterior_night_a32f4514-c313-479c-b758-bf0b22e5317d.jpg",
             "targetRectangle" : {
               "y" : 1.108386413761764e-07,
-              "x" : -3.593835212057684,
-              "width" : 1927.187622070313,
+              "x" : -3.593835115432739,
+              "width" : 1927.187622070312,
               "height" : 1134.746459960938
             }
           }
@@ -715,7 +715,7 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 961.4061647879423,
+                      "pointX" : 961.4061648845673,
                       "pointY" : 568.5000001108386
                     },
                     "width" : 1930,
@@ -781,7 +781,7 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 963.5938352120577,
+                          "pointX" : 963.5938351154327,
                           "pointY" : 567.4999998891614
                         },
                         "width" : 1930,
@@ -896,8 +896,8 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 448.0515977060535,
-                      "pointY" : 119.2310807641424
+                      "pointX" : 448.0515975952148,
+                      "pointY" : 119.2310791015625
                     },
                     "width" : 727,
                     "sublayerTransform" : [
@@ -944,7 +944,7 @@ local_slide( {
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
                         "textXHeight" : 0.4838423295454545,
-                        "textBaseline" : 0.7641250399870056,
+                        "textBaseline" : 0.7641250147964015,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -968,8 +968,8 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 365.9484022939465,
-                          "pointY" : 40.76891923585762
+                          "pointX" : 365.9484024047852,
+                          "pointY" : 40.7689208984375
                         },
                         "width" : 727,
                         "sublayerTransform" : [
@@ -1083,8 +1083,8 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 828.5091101066828,
-                      "pointY" : 412.8821058429168
+                      "pointX" : 828.5091094970703,
+                      "pointY" : 412.8821210861206
                     },
                     "width" : 1535,
                     "sublayerTransform" : [
@@ -1131,7 +1131,7 @@ local_slide( {
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
                         "textXHeight" : 0.2064273231907895,
-                        "textBaseline" : 0.9044952707312125,
+                        "textBaseline" : 0.9044953710154483,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -1155,8 +1155,8 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 774.4908898933172,
-                          "pointY" : 87.11789415708324
+                          "pointX" : 774.4908905029297,
+                          "pointY" : 87.11787891387939
                         },
                         "width" : 1535,
                         "sublayerTransform" : [

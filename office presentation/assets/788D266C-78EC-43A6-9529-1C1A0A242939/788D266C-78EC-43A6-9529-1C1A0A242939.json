@@ -396,21 +396,21 @@
       ],
       "accessibility" : [
         {
+          "text" : "denver_union_station_exterior_2015_991321c8-7b2b-4f91-bd96-1c8826647822.jpg",
+          "targetRectangle" : {
+            "y" : -88.06890869140625,
+            "x" : -83.16888427734375,
+            "width" : 2007.71875,
+            "height" : 1256.15625
+          }
+        },
+        {
           "text" : "wipro_digital_white_logo.ai",
           "targetRectangle" : {
             "y" : 1003.599060058594,
             "x" : 99.21440887451172,
             "width" : 130.0432281494141,
             "height" : 24
-          }
-        },
-        {
-          "text" : "Smile_White_RGB.ai",
-          "targetRectangle" : {
-            "y" : 997.1383056640625,
-            "x" : 244.8607482910156,
-            "width" : 40,
-            "height" : 40.00004196166992
           }
         },
         {
@@ -423,12 +423,12 @@
           }
         },
         {
-          "text" : "denver_union_station_exterior_2015_991321c8-7b2b-4f91-bd96-1c8826647822.jpg",
+          "text" : "Smile_White_RGB.ai",
           "targetRectangle" : {
-            "y" : -88.06890869140625,
-            "x" : -83.16888427734375,
-            "width" : 2007.71875,
-            "height" : 1256.15625
+            "y" : 997.1383056640625,
+            "x" : 244.8607482910156,
+            "width" : 40,
+            "height" : 40.00004196166992
           }
         },
         {

@@ -398,12 +398,12 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "denver_union_station_exterior_2015_991321c8-7b2b-4f91-bd96-1c8826647822.jpg",
+            "text" : "buildit @ wipro digital",
             "targetRectangle" : {
-              "y" : -88.06890869140625,
-              "x" : -83.16888427734375,
-              "width" : 2007.71875,
-              "height" : 1256.15625
+              "y" : 926.6026000976562,
+              "x" : 42.98530578613281,
+              "width" : 896.2611337378621,
+              "height" : 108
             }
           },
           {
@@ -416,12 +416,12 @@ local_slide( {
             }
           },
           {
-            "text" : "buildit @ wipro digital",
+            "text" : "denver_union_station_exterior_2015_991321c8-7b2b-4f91-bd96-1c8826647822.jpg",
             "targetRectangle" : {
-              "y" : 926.6026000976562,
-              "x" : 42.98530578613281,
-              "width" : 896.2611337378621,
-              "height" : 108
+              "y" : -88.06890869140625,
+              "x" : -83.16888427734375,
+              "width" : 2007.71875,
+              "height" : 1256.15625
             }
           },
           {

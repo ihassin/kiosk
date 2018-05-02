@@ -2,20 +2,6 @@ local_slide( {
   "name" : "568C305C-6C1D-469C-9C90-5DC895E37187",
   "json" : {
     "assets" : {
-      "3B7B68B7CD2D26EE3177D7181D8DEAE6" : {
-        "type" : "texture",
-        "index" : 4,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/568C305C-6C1D-469C-9C90-5DC895E37187.pdf"
-        },
-        "width" : 561,
-        "height" : 653
-      },
       "9F8EEA0DB1A3851C32E3B3B7F38EF0ED" : {
         "type" : "texture",
         "index" : 5,
@@ -44,7 +30,7 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
-      "5BA6DF7ACEF516F7DAB78587CF30CE20" : {
+      "CC1F330BA7CACCB01B0FDB23BEBEF0A1" : {
         "type" : "texture",
         "index" : 8,
         "assetRequest" : {
@@ -58,9 +44,9 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
-      "7FE914D8CF2438A01CD61D609BF61962" : {
+      "38B59AE08C733CCC81D3DDDCB7494D37" : {
         "type" : "texture",
-        "index" : 3,
+        "index" : 9,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -69,8 +55,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/568C305C-6C1D-469C-9C90-5DC895E37187.pdf"
         },
-        "width" : 1083,
-        "height" : 1083
+        "width" : 1920,
+        "height" : 1080
       },
       "50465FC8524865F70ED153A2581AB7CC" : {
         "type" : "texture",
@@ -114,6 +100,20 @@ local_slide( {
         "width" : 603,
         "height" : 768
       },
+      "6561E0E31417BE09F3F716784E14798B" : {
+        "type" : "texture",
+        "index" : 3,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/568C305C-6C1D-469C-9C90-5DC895E37187.pdf"
+        },
+        "width" : 1083,
+        "height" : 1083
+      },
       "2F721852258AE41DB687500ACB02F912" : {
         "type" : "texture",
         "index" : 6,
@@ -128,9 +128,9 @@ local_slide( {
         "width" : 906,
         "height" : 983
       },
-      "0694B4441B6ABCEDFA75EC78B7FB280E" : {
+      "3B7B68B7CD2D26EE3177D7181D8DEAE6" : {
         "type" : "texture",
-        "index" : 9,
+        "index" : 4,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -139,8 +139,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/568C305C-6C1D-469C-9C90-5DC895E37187.pdf"
         },
-        "width" : 1920,
-        "height" : 1080
+        "width" : 561,
+        "height" : 653
       }
     },
     "events" : [
@@ -324,7 +324,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "5BA6DF7ACEF516F7DAB78587CF30CE20"
+                      "texture" : "CC1F330BA7CACCB01B0FDB23BEBEF0A1"
                     },
                     {
                       "animations" : [
@@ -405,7 +405,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "0694B4441B6ABCEDFA75EC78B7FB280E"
+                      "texture" : "38B59AE08C733CCC81D3DDDCB7494D37"
                     }
                   ]
                 }
@@ -426,6 +426,33 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "abstract.JPG",
+            "targetRectangle" : {
+              "y" : 18.59564208984375,
+              "x" : 379.5641479492188,
+              "width" : 1080,
+              "height" : 1080
+            }
+          },
+          {
+            "text" : "Congrats to Jason Wagner on his art publication!",
+            "targetRectangle" : {
+              "y" : 197.804931640625,
+              "x" : 273.7699279785156,
+              "width" : 1321.473857760429,
+              "height" : 72
+            }
+          },
+          {
+            "text" : "abstract-expressionism.jpg",
+            "targetRectangle" : {
+              "y" : 1.323906660079956,
+              "x" : 0.2996406555175781,
+              "width" : 558.286865234375,
+              "height" : 650.5902709960938
+            }
+          },
+          {
             "text" : "IMG_8917.JPG",
             "targetRectangle" : {
               "y" : 368.9693908691406,
@@ -444,15 +471,6 @@ local_slide( {
             }
           },
           {
-            "text" : "Jason Wagner-RAW Denver presents CONNECT.jpeg",
-            "targetRectangle" : {
-              "y" : 315.5629577636719,
-              "x" : -0.1452784538269043,
-              "width" : 600,
-              "height" : 765
-            }
-          },
-          {
             "text" : "IMG_8917.JPG",
             "targetRectangle" : {
               "y" : -42.25712585449219,
@@ -462,30 +480,12 @@ local_slide( {
             }
           },
           {
-            "text" : "abstract.JPG",
+            "text" : "Jason Wagner-RAW Denver presents CONNECT.jpeg",
             "targetRectangle" : {
-              "y" : 1.88194604788805e-07,
-              "x" : 444.6488952636719,
-              "width" : 1080,
-              "height" : 1080
-            }
-          },
-          {
-            "text" : "abstract-expressionism.jpg",
-            "targetRectangle" : {
-              "y" : 1.323906660079956,
-              "x" : 0.2996406555175781,
-              "width" : 558.286865234375,
-              "height" : 650.5902709960938
-            }
-          },
-          {
-            "text" : "Congrats to Jason Wagner on his art publication!",
-            "targetRectangle" : {
-              "y" : 197.804931640625,
-              "x" : 273.7699279785156,
-              "width" : 1321.473857760429,
-              "height" : 72
+              "y" : 315.5629577636719,
+              "x" : -0.1452784538269043,
+              "width" : 600,
+              "height" : 765
             }
           }
         ],
@@ -1160,8 +1160,8 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 986.1488952636719,
-                      "pointY" : 541.5000001881946
+                      "pointX" : 921.0641479492188,
+                      "pointY" : 560.0956420898438
                     },
                     "width" : 1083,
                     "sublayerTransform" : [
@@ -1226,8 +1226,8 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 539.8511047363281,
-                          "pointY" : 540.4999998118054
+                          "pointX" : 539.9358520507812,
+                          "pointY" : 539.9043579101562
                         },
                         "width" : 1083,
                         "sublayerTransform" : [
@@ -1263,7 +1263,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "7FE914D8CF2438A01CD61D609BF61962"
+                      "texture" : "6561E0E31417BE09F3F716784E14798B"
                     }
                   ]
                 }

@@ -14,9 +14,9 @@
       "width" : 654,
       "height" : 67
     },
-    "0694B4441B6ABCEDFA75EC78B7FB280E" : {
+    "C25C25FF361FB24FC35F6B120D2F252D" : {
       "type" : "texture",
-      "index" : 4,
+      "index" : 0,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -70,9 +70,9 @@
       "width" : 1920,
       "height" : 1080
     },
-    "C25C25FF361FB24FC35F6B120D2F252D" : {
+    "276B47CD1001AFF6C51A03544FB995C4" : {
       "type" : "texture",
-      "index" : 0,
+      "index" : 4,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -266,7 +266,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "0694B4441B6ABCEDFA75EC78B7FB280E"
+                    "texture" : "276B47CD1001AFF6C51A03544FB995C4"
                   },
                   {
                     "animations" : [
@@ -368,15 +368,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "new-york-city-2380683_960_720.jpg",
-          "targetRectangle" : {
-            "y" : 0.1610169559717178,
-            "x" : -1.411995768547058,
-            "width" : 1935.361450195312,
-            "height" : 1126.94482421875
-          }
-        },
-        {
           "text" : "Practice Development Talks - Friday May 11th @ 3pm",
           "targetRectangle" : {
             "y" : 343.2065534591675,
@@ -401,6 +392,15 @@
             "x" : 84.55159759521484,
             "width" : 650.4018928483129,
             "height" : 72
+          }
+        },
+        {
+          "text" : "new-york-city-2380683_960_720.jpg",
+          "targetRectangle" : {
+            "y" : 0.1610169559717178,
+            "x" : -1.411995768547058,
+            "width" : 1935.361450195312,
+            "height" : 1126.94482421875
           }
         }
       ],

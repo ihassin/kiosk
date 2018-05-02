@@ -15,9 +15,12 @@ echo "starting infinite loop of scrooling and tabbing"
 for (( ; ; ))
 do
 		echo "10 second sleep to display current slide"
-		sleep 10
+		Sleep 2
+	    xdotool key Escape
+	    xdotool key ctrl+r
+	    sleep 10
 		xdotool key Escape
-			for VARIABLE in 00 01 02 03 04 05 06
+			for VARIABLE in 00 01 02 03 04 05 06 07 08 09
         	do
                 xdotool key n
 		echo "Next Slide"
@@ -29,9 +32,12 @@ do
 	echo "Switching back to presentation"
 	xdotool key ctrl+Tab
 	echo "Waiting for full screen to load - 20"
+	Sleep 2
+	xdotool key Escape
+	xdotool key ctrl+r
 	sleep 20
 	xdotool key Escape
-		for VARIABLE in 00 01 02 03 04 05 06
+		for VARIABLE in 00 01 02 03 04 05 06 07 08 09
         	do
                 xdotool key p
 		echo "Previous Slide"

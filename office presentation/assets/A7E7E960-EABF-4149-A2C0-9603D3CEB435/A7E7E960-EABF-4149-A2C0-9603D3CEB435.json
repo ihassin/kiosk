@@ -42,7 +42,7 @@
       "width" : 1920,
       "height" : 1080
     },
-    "B25EFD72F11184C73DA0DDE895B22C34" : {
+    "65806D9FEEFF40EA4F5F182D08518BB6" : {
       "type" : "texture",
       "index" : 2,
       "assetRequest" : {
@@ -238,7 +238,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "B25EFD72F11184C73DA0DDE895B22C34"
+                    "texture" : "65806D9FEEFF40EA4F5F182D08518BB6"
                   },
                   {
                     "animations" : [

@@ -3,15 +3,15 @@
 #export XAUTHORITY=/home/pi/.Xauthority; export DISPLAY=:0;
 echo "sleeping 30 for screen load"
 sleep 30
+xdotool key Escape
+sleep 10
 echo "starting infinite loop of scrooling and tabbing"
 for (( ; ; ))
 do
 		echo "10 second sleep to display current slide"
-		Sleep 2
-	    xdotool key Escape
+	    sleep 10
 	    xdotool key ctrl+r
 	    sleep 20
-		xdotool key Escape
 			for VARIABLE in 00 01 02 03 04 05 06 07 08 09
         	do
                 xdotool key n

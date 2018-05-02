@@ -12,7 +12,7 @@ do
 	    sleep 10
 	    xdotool key ctrl+r
 	    sleep 20
-			for VARIABLE in 00 01 02 03 04 05 06 07 08 09
+			for VARIABLE in 00 01 02 03 04 05 06 07 08
         	do
                 xdotool key n
 		echo "Next Slide"

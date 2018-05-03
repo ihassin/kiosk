@@ -10,6 +10,8 @@ for (( ; ; ))
 do
 		echo "10 second sleep to display current slide"
 	    sleep 10
+	    xdotool key Escape
+	    sleep 2
 	    xdotool key ctrl+r
 	    sleep 20
 			for VARIABLE in 00 01 02 03 04 05 06 07 08
